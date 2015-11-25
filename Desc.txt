@@ -1,0 +1,2 @@
+Code that can write any sent code in php. 
+just log in input.php write the code then it will get generated in a php file. 
